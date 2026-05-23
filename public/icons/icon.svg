@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Comunidad Doce">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#635bff"/>
+      <stop offset="55%" stop-color="#c3c0ff"/>
+      <stop offset="100%" stop-color="#ffb68f"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fefaff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="2"/>
+  <circle cx="256" cy="256" r="130" fill="rgba(255,255,255,0.12)"/>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Georgia, 'Libre Caslon Text', serif" font-size="200" font-weight="400" fill="url(#text)" dominant-baseline="middle" letter-spacing="-6">12</text>
+  <text x="50%" y="78%" text-anchor="middle" font-family="ui-sans-serif, Manrope, system-ui, sans-serif" font-size="34" font-weight="700" fill="rgba(255,255,255,0.92)" letter-spacing="6">COMUNIDAD</text>
+</svg>
